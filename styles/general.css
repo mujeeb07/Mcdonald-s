@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    font-family: Speedee, apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Noto Sans, sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    color: #292929;
+    padding-bottom: 100px;
+}
+
+body u {
+    color: #006bae;
+    cursor: pointer;
+}
+
+body li {
+    cursor: pointer;
+}
